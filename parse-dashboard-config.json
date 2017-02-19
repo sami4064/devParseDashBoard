@@ -1,0 +1,16 @@
+{
+    "apps": [
+             {
+             "serverURL": "https://toplistapi.herokuapp.com/parse",
+             "appId": "myAppId",
+             "masterKey": "myMasterKey",
+             "appName": "My Parse Server App"
+             }
+             ],
+    "users": [
+              {
+              "user":"alain.rothstein@gmail.com",
+              "pass":"pars1234" // change this to something secure
+              }
+              ]
+}
