@@ -1,7 +1,7 @@
 {
     "apps": [
              {
-             "serverURL": "https://toplistapi.herokuapp.com/parse",
+             "serverURL": "https://devtoplsitapi.herokuapp.com/parse",
              "appId": "myAppId",
              "masterKey": "myMasterKey",
              "appName": "My Parse Server App"
